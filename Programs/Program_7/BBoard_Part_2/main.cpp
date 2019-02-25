@@ -7,7 +7,7 @@ int main() {
 	string userfile;
 	string datafile;
 
-	BBoard bb("CS12 Bulletin Board");
+	BBoard bb("CS012 Bulletin Board");
 
 	cout << "User file?" << endl;
 	cin >> userfile;
